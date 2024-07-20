@@ -4,9 +4,10 @@ import  UserContextProvider  from "./context/UserContextProvider";
 
 function App() {
   return (
-    <><div className="bg-slate-900 h-screen">
+    <>
+    <div className="bg-slate-900 max-h-screen">
       <UserContextProvider>
-        <h1 className="font-mono pt-6 text-yellow-50 text-9xl text-center">LogIn via Context API</h1>
+        <h1 className="font-mono pt-6 text-yellow-50 text-8xl text-center">LogIn via Context API</h1>
         <Login />
         <Profile />
       </UserContextProvider>

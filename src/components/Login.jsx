@@ -14,7 +14,7 @@ const Login = () => {
   return (
     <>
       <section class="text-gray-400 bg-gray-900 body-font">
-        <div class="container px-5 py-28 mx-auto flex flex-wrap items-center">
+        <div class="container px-[90px] py-24 mx-auto flex flex-wrap items-center">
           <div class="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
             <h1 class="title-font font-medium text-3xl text-white">
               Slow-carb next level shoindxgoitch ethical authentic, poko
